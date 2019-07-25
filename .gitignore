@@ -17,6 +17,7 @@ log/
 *.pyc
 *.synctex.gz
 *.bbl
+*.h5
 
 m12i_positions/
 .ipynb_checkpoints/
